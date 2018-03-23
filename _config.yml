@@ -1,8 +1,8 @@
 # Site settings
 title: Highlights
-email: youremailaddress@gmail.com
+email: rom.larroque@gmail.com
 description: The Jekyll version of the Highlights theme by HTML5 UP.
-baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/highlights" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
@@ -12,10 +12,10 @@ github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/romainlm/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/r_larroque
 
 # Build settings
 markdown: kramdown
