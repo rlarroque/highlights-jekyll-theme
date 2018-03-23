@@ -2,7 +2,7 @@
 title: Highlights
 email: rom.larroque@gmail.com
 description: The Jekyll version of the Highlights theme by HTML5 UP.
-baseurl: "/highlights" # the subpath of your site, e.g. /blog
+baseurl: "/highlights-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
